@@ -65,5 +65,19 @@
    &lt;p>&lt;/p>：段落标记；  
    &lt;hn>&lt;/hn>：标题标记；n=123456;  
    &lt;font>&lt;/font>；文本样式标记；  
-   
+   ![](https://github.com/yqlee/folderOfH5/blob/master/notes/picture/1_html标签_1.png)  
+   &lt;img src="图像URL"/>：图像标记；  
+   ![](https://github.com/yqlee/folderOfH5/blob/master/notes/picture/2_img标记_属性.png)  
+   相对路径：相对路径不带盘符，通常是以html网页文件为起点，通过层级关系描述目标图像的位置；  
+   绝对路径：绝对路径一般是指带有盘符的路径；  
+   &lt;a href="跳转目标" target="_blank">文本或图像&lt;/a>：超链接；  
+   &lt;base/>：可以设置整体链接的打开状态；  
+   锚点链接：  
+   1）、使用&lt;a href="#id名">链接文本&lt;/a>创建链接文本；  
+   2）、使用相应的id名称标注跳转目标的位置；  
+   ![](https://github.com/yqlee/folderOfH5/blob/master/notes/picture/3_特殊字符标记.png)  
+   列表List：  
+   1）、ul:无序列表；  
+   2）、ol:有序列表；  
+   3）、dl:自定义列表；
 11. 顶顶顶
